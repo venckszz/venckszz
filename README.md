@@ -4,4 +4,4 @@
 
 ## Sobre mim:
 
-Estudante de Ciência da Computação na UFES. Gosto de desafios de programação competitiva, explorar ideias de algoritmos e entender como as coisas funcionam por trás dos códigos.
+Student of Computer Science at UFES

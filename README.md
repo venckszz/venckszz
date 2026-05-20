@@ -1,7 +1,7 @@
-# Stats
+Trabalho desenvolvido na discplina de Programação Estruturada com o tema de Jogo da Vida.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venckszz&theme=nord&show_icons=true&sfkjsf=a)](https://github.com/anuraghazra/github-readme-stats)
+Sistema: Linux
+Linguagem: C
+Compilador: gcc
 
-## Sobre mim:
-
-Student of Computer Science at UFES
+O jogo da vida consiste em um autômato celular que altera o estado de células baseado no estado de seus respectivos vizinhos. O intuito do trabalho foi desenvolver os conceitos de alocação de memória, ponteiros, matrizes e structs.

@@ -1,6 +1,6 @@
 ### 🧑🏻 About Me
 
-Computer Science undergraduate at the Federal University of Espírito Santo (UFES), interested in Artificial Intelligence, scientific research, and optimization. I currently contribute to activities at the UFES Production Management Laboratory, working with operations research, mathematical modeling, and system optimization.
+Computer Science undergraduate at the Federal University of Espírito Santo (UFES, Brazil), interested in Artificial Intelligence, scientific research, and optimization. I currently contribute to activities at the UFES Production Management Laboratory, working with operations research, mathematical modeling, and system optimization.
 
 I am also developing my skills in the Python ecosystem for data analysis and machine learning, with the goal of connecting software development, computational methods, and scientific research.
 
@@ -19,7 +19,7 @@ I am also developing my skills in the Python ecosystem for data analysis and mac
   <img 
     align="left" 
     alt="Most Used Languages"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=venckszz&layout=compact&langs_count=5&hide_values=true&theme=gruvbox&card_width=432"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=venckszz&layout=compact&langs_count=5&hide_values=true&theme=gruvbox&card_width=390"
   />
 </p>
 

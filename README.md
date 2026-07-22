@@ -12,10 +12,10 @@ I am also developing my skills in the Python ecosystem for data analysis and mac
   <img
     alt="GitHub Stats"
     height="165"
-    src="https://github-stats-extended.vercel.app/api?username=venckszz&rank_icon=github&show_icons=true&include_all_commits=true&theme=gruvbox&card_width=432&line_height=20"
+    src="https://github-stats-extended.vercel.app/api?username=venckszz&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight&card_width=432&line_height=20"
   />&nbsp;&nbsp;&nbsp;&nbsp;<img
     alt="Most Used Languages"
     height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=venckszz&layout=compact&langs_count=5&hide_values=true&theme=gruvbox&card_width=340"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=venckszz&layout=compact&langs_count=5&hide_values=true&theme=tokyonight&card_width=340"
   />
 </p>

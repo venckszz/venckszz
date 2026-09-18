@@ -13,6 +13,6 @@ I am also developing my skills in the Python ecosystem for data analysis and mac
   />&nbsp;&nbsp;&nbsp;&nbsp;<img
     alt="Most Used Languages"
     height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=venckszz&layout=compact&langs_count=6&hide_values=true&theme=tokyonight&card_width=340"
+    src="[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=venckszz&layout=compact&langs_count=6&hide_values=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=venckszz&layout=compact&langs_count=6&hide_values=true&theme=tokyonight)&card_width=340"
   />
 </p>

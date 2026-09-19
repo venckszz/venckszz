@@ -1,7 +1,5 @@
 
-Computer Science undergraduate at the Federal University of Espírito Santo (UFES, Brazil), interested in Artificial Intelligence, scientific research, and optimization. I currently contribute to activities at the UFES Production Management Laboratory, working with operations research, mathematical modeling, and system optimization.
-
-I am also developing my skills in the Python ecosystem for data analysis and machine learning, with the goal of connecting software development, computational methods, and scientific research.
+Computer Science student at UFES and Undergraduate Research Fellow working with Artificial Intelligence and Machine Learning. Interested in software development, Python, Data Science, and exploring how AI can be applied to solve real-world problems.
 
 #
 
